@@ -171,7 +171,7 @@ The next release may perform preprocessing to follow Web Platform Design Princip
 </dd>
 <dt><a href="#mdCodeSpans2html">mdCodeSpans2html(text)</a> ⇒ <code>string</code></dt>
 <dd><p>Processes the supplied string by transforming any Markdown backtick code
-spans (begining and ending with a single backtack) into HTML code elements.</p>
+spans (beginning and ending with a single backtick) into HTML code elements.</p>
 </dd>
 <dt><a href="#redden">redden(text)</a> ⇒ <code>string</code></dt>
 <dd><p>Returns the supplied string as red colored if ANSI escapes are supported.</p>
